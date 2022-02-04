@@ -1,3 +1,3 @@
-# Collection of famous algorithms
+# Algorithms (Python)
 
 Will input description here...
